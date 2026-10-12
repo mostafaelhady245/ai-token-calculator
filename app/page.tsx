@@ -112,6 +112,12 @@ export default function Home() {
           </table>
         </div>
 
+        <div className="bg-white p-6 rounded-2xl border mt-8 text-center">
+          <h2 className="font-bold text-xl mb-2">Learn More</h2>
+          <a href="/blog/how-many-tokens-is-1000-words" className="text-blue-600 font-bold hover:underline">
+            → How Many Tokens is 1000 Words? Read our full guide
+          </a>
+        </div>
         {/* FAQ للسيو وادسنس */}
         <div className="bg-white p-6 rounded-2xl shadow-sm border mt-8">
           <h2 className="font-bold text-2xl mb-4">Frequently Asked Questions</h2>
